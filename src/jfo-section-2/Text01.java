@@ -8,5 +8,8 @@ public class Text01 {
         System.out.println("======(__|__)======");
         System.out.println("  (             )  ");
         System.out.println("   (___________)   ");
+
+        String x = new String("hi")
+        System.out.println(x);
     }    
 }
